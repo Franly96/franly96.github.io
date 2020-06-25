@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url("../images//background.jpg");
+}
+#portfolio{
+    margin: 200px auto;
+    text-align: center;
+    color: white;
+}
+.who-i-am{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+.image-container{
+    padding-top:25px ;
+    
+}
+
+#portfolio  img {
+    border-radius: 50%;
+    margin: auto 0;
+}
